@@ -98,4 +98,9 @@ public class Utility {
         wb.close();
         driver.quit();
 	}
-}
+	
+	public static void web() {
+		
+	
+	}
+	}
